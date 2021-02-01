@@ -6,7 +6,7 @@ strLastName : **"Sriuaipornchai"**  // ศรีอวยพรชัย\
 strNickName : **_"Fluke"_** // ฟลุ๊ค\
 strBirthDay : 1992-04-30    // 2535-04-30\
 uint_8tAge : 29\
-strMilitaryStatus : "Exception"
+strMilitaryStatus : "Exception"\
 boolMarriageStatus : True // แต่งงานแล้ว
 
 ## Images
