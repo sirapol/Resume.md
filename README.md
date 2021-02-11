@@ -51,10 +51,23 @@ boolMarriageStatus : True // แต่งงานแล้ว
         5.  Mapping data from machine or what every to Thingworx platform ( Kepware, REST, MQTT and etc ).
         6.  Contact PTC headquarters about after sale service ( Bug report, installation guide, manual and etc ).
         7.  Find the new IoT hardware or IoT technology to support customer.
-    2. DIAS IoT Platform
+    2. DIAS IoT Platform ( Thingsboard core engine )
        1. Concept design platform.
-       2. 
-
+       2. Design back end structure.
+       3. Coding back end electricity billing service and generate to PDF report.
+       4. Coding back end OEE service and generate to PDF report.
+       5. Design and coding Admin application for DIAS platform ( Angular , NodeJS ).
+       6. Coding back end Line notify service.
+    3. Administrator
+       1. Using VMware for manage all server. ( Thingworx, DIAS, SOLDIWORKS and etc. )
+       2. Manage resource of Host server.
+       3. Create new VM for testing, setup, develop IoT platform.
+       4. Install OS. ( MS windown server, Ubuntu server).
+       5. Monitor server.
+       6. Maintenance server. ( Update, Down check and whatever you can think ).
+    4. Content creator
+       1. Write IoT articles for marketing event.
+       2. Write webinar content.
 
 #### Start Date (Estimate) : 2018-01-01
 #### End Date : Present
@@ -66,22 +79,42 @@ boolMarriageStatus : True // แต่งงานแล้ว
 |Bachelor Degree|King Mongkut University of Technology North Bangkok   | Automotive Engineering Technology |
 
 ## Skill
+***note in the bracket is skil ranking. ( Maximum is "Out standing")***
 ### Programming
-    1. C // Embedded (PIC16F,PIC18F)
-    2. Java
-    3. Javascript // NodeJS
-    4. C# // WinFrom , Console
-    5. Python
-    6. SQL // Postgresql , MSSQL
+    1. C // Embedded PIC16F,PIC18F ( Very good )
+    2. Java ( Below Average )
+    3. Javascript // NodeJS ( Good )
+    4. C# // WinFrom , Console ( Average )
+    5. Python ( Good )
+    6. SQL // Postgresql , MSSQL ( Average )
 
 ### Programming tools
-    1. VIM
-    2. VS Code
+    1. VIM ( Good )
+    2. VS Code ( Good )
+
+### CAD and PCB tools
+    1. SOLIDWORKS ( Excellent )
+    2. Eagle PCB ( Excellent, It's long time ago.)
+    3. Altium ( Good )
+    4. EasyEDA ( Outstanding )
+    5. Cura ( Good )
 
 ### OS
-    1. MS Windows
-    2. Linux ( Ubuntu )
+    1. MS Windows ( Excellent )
+    2. Ubuntu ( Good )
 
+### Basic software
+    1. MS Office
+       1. Word ( Excellent )
+       2. Excel ( Outstanding )
+       3. PowerPoint ( Excellent )
+
+### Etc
+    1. Photographer, Videographer and Video editor. ( Excellant )
+    2. OBS live streaming software. ( Outstanding )
+    3. Electric welding ( Outstanding )
+    4. Machining skill. eg. Lathe, Drilling, Milling ( Outstanding )
+    5. Auto machanic skill ( Outstanding )
 
 
 ## Hobby
