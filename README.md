@@ -14,28 +14,50 @@ boolMarriageStatus : True // แต่งงานแล้ว
 
 ## Experiance
 ### 1. Ducati Motor Thailand Co., LTD.
-Position : Trainee\
-Responsibility : Create and Checking Working Instruction , Training new working instruction to operator.\
-Start Date : 2013-03-18\
-End Date : 2013-06-18
+#### Position : Trainee
+#### Responsibility
+    Create and Checking Working Instruction , Training new working instruction to operator.
+#### Start Date : 2013-03-18
+#### End Date : 2013-06-18
 
 ### 2. OGN Network Thailand Co., Ltd.
-Position : Sales Engineer\
-Responsibility : \
-Start Date : 2014-06-01\
-End Date :2016-05-31
+#### Position : Sales Engineer
+#### Responsibility
+    Collect requirement of design project from customer.
+    Prepare estimate cost of machine after design team completed the drawing.
+    Make quotation, manage project timeline and complete project.
+    Customer field is automotive industries ( 1st , 2nd tier)
+#### Start Date : 2014-06-01
+#### End Date :2016-05-31
 
 ### 3. Metro Systems Corporation PCL.
-Position : Sales Engineer\
-Responsibility :\
-Start Date : 2016-06-01\
-End Date (Estimate): 2017-12-31
+#### Position : Sales Engineer
+#### Responsibility
+    Sales the SOLIDWORKS ( 3D CAD CAM CAE software )
+    Find the new customer.
+    Convince customer between SOLIDWORKS and another software
+    Make quotation, commit billing date and delivery date
+#### Start Date : 2016-06-01
+#### End Date (Estimate): 2017-12-31
 
 ### 4. Metro Systems Corporation PCL.
-Position : IoT Engineer\
-Responsibility :\
-Start Date (Estimate) : 2018-01-01\
-End Date : Present
+#### Position : IoT Engineer
+#### Responsibility
+    1.  Technicial and pre-sale of Thingworx ( IoT platform of PTC inc. )
+        1.  Present Thingworx to customer suggestion right way to IoT.
+        2.  Suggest the right way for start IoT project.
+        3.  Site survey, get requirement and find critial pain point from customer.
+        4.  Present prove of concept ( POC ) refer requiremnet and pain point.
+        5.  Mapping data from machine or what every to Thingworx platform ( Kepware, REST, MQTT and etc ).
+        6.  Contact PTC headquarters about after sale service ( Bug report, installation guide, manual and etc ).
+        7.  Find the new IoT hardware or IoT technology to support customer.
+    2. DIAS IoT Platform
+       1. Concept design platform.
+       2. 
+
+
+#### Start Date (Estimate) : 2018-01-01
+#### End Date : Present
 
 ## Education
 |Education|Institution|Major|
