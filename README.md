@@ -148,6 +148,3 @@
 
 ### Gaming
 <img src="https://scontent.fkdt1-1.fna.fbcdn.net/v/t1.0-9/92118221_670836587053342_7906964328702541824_o.jpg?_nc_cat=103&ccb=3&_nc_sid=84a396&_nc_eui2=AeHhK8737OM-K9VvdygMm8enJPJa0qgFQDgk8lrSqAVAOFrzYuAnPJqVudOfeTS4oLekrZjV4YB-SKpq4Nfb3zQl&_nc_ohc=uKiciNFooisAX9obvCQ&_nc_oc=AQm-GFrzQnnBFb08_6BsdDpyqKBelpALuoHexwyJdmiSxtht6U5vz6FV_GPypYhm-RifFpyAceSJ3KatcN28vuxX&_nc_ht=scontent.fkdt1-1.fna&oh=0c8c995565b032287417eaf7d88c4131&oe=604E215C" width="500">
-
-### Drinking
-<img src="https://scontent.fkdt1-1.fna.fbcdn.net/v/t1.0-9/99160992_705437390259928_8216789413871484928_o.jpg?_nc_cat=103&ccb=3&_nc_sid=8bfeb9&_nc_eui2=AeFCzZ6seNoG2BNMAt7F7IXO04SbBqoMVK3ThJsGqgxUrQkY00DBsEJPoWI2Ep-ba9jhaIa8365cm92G8_O_Ug2I&_nc_ohc=fj9KMhm_sowAX8TQSSf&_nc_ht=scontent.fkdt1-1.fna&oh=fb2d369edfae234c90659454bebea89d&oe=604E8800" height="800">
