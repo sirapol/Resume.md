@@ -1,13 +1,19 @@
 # readme.md
 
 ## Personality
-strName : **"Sirapol"** // ศิรพล\
-strLastName : **"Sriuaipornchai"**  // ศรีอวยพรชัย\
-strNickName : **_"Fluke"_** // ฟลุ๊ค\
-strBirthDay : 1992-04-30    // 2535-04-30\
-uint_8tAge : 29\
-strMilitaryStatus : "Exception"\
-boolMarriageStatus : True // แต่งงานแล้ว
+    strName : "Sirapol" // ศิรพล
+    strLastName : "Sriuaipornchai"  // ศรีอวยพรชัย
+    strNickName : "Fluke" // ฟลุ๊ค
+    strBirthDay : 1992-04-30    // 2535-04-30
+    uint_8tAge : 29
+    strMilitaryStatus : "Exception"
+    boolMarriageStatus : True // แต่งงานแล้ว
+    uint_8tHight = 175
+    uint_8Weight = 47
+    strReligion = "none" // In ID card is "Buddhism"
+    strEmail = "s.sirapol@hotmail.com"
+    strPhoneNum = "+66806668060"
+    strLineID = "s.sirapol"
 
 ## Images
 <img src="https://scontent.fbkk12-2.fna.fbcdn.net/v/t1.0-9/31225613_197687114368294_7299577887722569728_n.jpg?_nc_cat=104&ccb=2&_nc_sid=09cbfe&_nc_eui2=AeGHjACZrSM9JSDlY2QkH8-Tim838M4Z2_KKbzfwzhnb8pXOr0x9w6d_RHIxrldFkajrrUhcyM1-zqWvte2G305y&_nc_ohc=CPY8f9RxPF0AX_DJRdF&_nc_ht=scontent.fbkk12-2.fna&oh=68cf69657c5e154a9bc3ac8a212e3337&oe=603B522A" width="500">
@@ -92,21 +98,24 @@ boolMarriageStatus : True // แต่งงานแล้ว
 1.  Serial , USART ( Very good )
 2.  I2C ( Good )
 3.  SPI ( Average )
-4.  Modbus // TCP, Serial ( Very good )
-5.  REST API ( Very good )
-6.  MQTT ( Very good )
-7.  
+4.  CAN Bus // OBD-II ( Good )
+5.  Modbus // TCP, Serial ( Very good )
+6.  REST API ( Very good )
+7.  MQTT ( Very good )
+8.  Bluetooth ( Average )
+9.  3G internet, message ( Avarage )
 
 ### Programming tools
 1. VIM ( Good )
 2. VS Code ( Good )
+3. VMware ( Average )
 
 ### CAD and PCB tools
 1. SOLIDWORKS ( Excellent )
 2. Eagle PCB ( Excellent, It's long time ago.)
 3. Altium ( Good )
 4. EasyEDA ( Outstanding )
-5. Cura ( Good )
+5. Cura 3D printer ( Good )
 
 ### OS
 1. MS Windows ( Excellent )
@@ -124,8 +133,21 @@ boolMarriageStatus : True // แต่งงานแล้ว
 3. Electric welding ( Outstanding )
 4. Industrial machining skill. eg. Lathe, Drilling, Milling ( Outstanding )
 5. Advance automotive engineering skill. ( Outstanding )
+6. 3D printer skill. eg. Maintenance, Repair and setup ( Very good )
 
 
 ## Hobby
-### Youtube creator
+### Youtube channel : Fluke Electronic
 [![](http://img.youtube.com/vi/DtsZzOdKtmg/0.jpg)](http://www.youtube.com/watch?v=DtsZzOdKtmg "")
+
+### Motor bike rider
+<img src="https://scontent.fkdt1-1.fna.fbcdn.net/v/t1.0-9/123135731_823843858419280_7089178622451957940_o.jpg?_nc_cat=108&ccb=3&_nc_sid=84a396&_nc_eui2=AeGBA8XPuJgzscCMwtWzXUg-kmBoaDrqcDKSYGhoOupwMpcQroE1vcyAWtBE6DuaV7d1DuLXl7Qm9XoiEB9RS7Ry&_nc_ohc=OryaYkenig8AX_ba1Wh&_nc_ht=scontent.fkdt1-1.fna&oh=e21a797bf398c5d0826462f8ed6670bd&oe=604E9B44" width="500">
+
+### Motor bike repairing
+<img src="https://scontent.fkdt1-1.fna.fbcdn.net/v/t1.0-9/78378282_580215456115456_1581861632215089152_o.jpg?_nc_cat=103&ccb=3&_nc_sid=8bfeb9&_nc_eui2=AeFGcTKobS18Uvg8-9MB4WPGpbTLcJ_NbfaltMtwn81t9iFpEB8XQOx_uv02As9O-Pgsz6yObZttw4pXgUICvb8u&_nc_ohc=1B0GnndxoY8AX8XnD9h&_nc_ht=scontent.fkdt1-1.fna&oh=c50600061f664023d837fbfc72f1f998&oe=604F4EC4" width="500">
+
+### Gaming
+<img src="https://scontent.fkdt1-1.fna.fbcdn.net/v/t1.0-9/92118221_670836587053342_7906964328702541824_o.jpg?_nc_cat=103&ccb=3&_nc_sid=84a396&_nc_eui2=AeHhK8737OM-K9VvdygMm8enJPJa0qgFQDgk8lrSqAVAOFrzYuAnPJqVudOfeTS4oLekrZjV4YB-SKpq4Nfb3zQl&_nc_ohc=uKiciNFooisAX9obvCQ&_nc_oc=AQm-GFrzQnnBFb08_6BsdDpyqKBelpALuoHexwyJdmiSxtht6U5vz6FV_GPypYhm-RifFpyAceSJ3KatcN28vuxX&_nc_ht=scontent.fkdt1-1.fna&oh=0c8c995565b032287417eaf7d88c4131&oe=604E215C" width="500">
+
+### Drinking
+<img src="https://scontent.fkdt1-1.fna.fbcdn.net/v/t1.0-9/99160992_705437390259928_8216789413871484928_o.jpg?_nc_cat=103&ccb=3&_nc_sid=8bfeb9&_nc_eui2=AeFCzZ6seNoG2BNMAt7F7IXO04SbBqoMVK3ThJsGqgxUrQkY00DBsEJPoWI2Ep-ba9jhaIa8365cm92G8_O_Ug2I&_nc_ohc=fj9KMhm_sowAX8TQSSf&_nc_ht=scontent.fkdt1-1.fna&oh=fb2d369edfae234c90659454bebea89d&oe=604E8800" height="800">
