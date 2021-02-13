@@ -1,6 +1,6 @@
 # readme.md
 
-## Personal
+## Personality
 strName : **"Sirapol"** // ศิรพล\
 strLastName : **"Sriuaipornchai"**  // ศรีอวยพรชัย\
 strNickName : **_"Fluke"_** // ฟลุ๊ค\
@@ -81,41 +81,50 @@ boolMarriageStatus : True // แต่งงานแล้ว
 ## Skill
 ***note in the bracket is skil ranking. ( Maximum is "Out standing")***
 ### Programming
-    1. C // Embedded PIC16F,PIC18F ( Very good )
-    2. Java ( Below Average )
-    3. Javascript // NodeJS ( Good )
-    4. C# // WinFrom , Console ( Average )
-    5. Python ( Good )
-    6. SQL // Postgresql , MSSQL ( Average )
+1. C // Embedded PIC16F,PIC18F ( Very good )
+2. Java ( Below Average )
+3. Javascript // NodeJS ( Good )
+4. C# // WinFrom , Console ( Average )
+5. Python ( Good )
+6. SQL // Postgresql , MSSQL ( Average )
+
+### Electronic and IoT Protocol knowledge
+1.  Serial , USART ( Very good )
+2.  I2C ( Good )
+3.  SPI ( Average )
+4.  Modbus // TCP, Serial ( Very good )
+5.  REST API ( Very good )
+6.  MQTT ( Very good )
+7.  
 
 ### Programming tools
-    1. VIM ( Good )
-    2. VS Code ( Good )
+1. VIM ( Good )
+2. VS Code ( Good )
 
 ### CAD and PCB tools
-    1. SOLIDWORKS ( Excellent )
-    2. Eagle PCB ( Excellent, It's long time ago.)
-    3. Altium ( Good )
-    4. EasyEDA ( Outstanding )
-    5. Cura ( Good )
+1. SOLIDWORKS ( Excellent )
+2. Eagle PCB ( Excellent, It's long time ago.)
+3. Altium ( Good )
+4. EasyEDA ( Outstanding )
+5. Cura ( Good )
 
 ### OS
-    1. MS Windows ( Excellent )
-    2. Ubuntu ( Good )
+1. MS Windows ( Excellent )
+2. Ubuntu ( Good )
 
 ### Basic software
-    1. MS Office
-       1. Word ( Excellent )
-       2. Excel ( Outstanding )
-       3. PowerPoint ( Excellent )
+1. MS Office
+   1. Word ( Excellent )
+   2. Excel ( Outstanding )
+   3. PowerPoint ( Excellent )
 
 ### Etc
-    1. Photographer, Videographer and Video editor. ( Excellant )
-    2. OBS live streaming software. ( Outstanding )
-    3. Electric welding ( Outstanding )
-    4. Machining skill. eg. Lathe, Drilling, Milling ( Outstanding )
-    5. Auto machanic skill ( Outstanding )
+1. Photographer, Videographer and Video editor. ( Excellant )
+2. OBS live streaming software. ( Outstanding )
+3. Electric welding ( Outstanding )
+4. Industrial machining skill. eg. Lathe, Drilling, Milling ( Outstanding )
+5. Advance automotive engineering skill. ( Outstanding )
 
 
 ## Hobby
-* 
+### Youtube creator
