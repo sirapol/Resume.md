@@ -78,7 +78,7 @@
 #### Start Date (Estimate) : 2018-01-01
 #### End Date : 2021-04-30
 
-### 4. Network Link Co., Ltd
+### 5. Network Link Co., Ltd
 #### Position : Programmer ( IoT Engineer )
 #### Responsibility
     1. Provide onsite and remote support to employees for desktop applications, VOIP telephones, smartphones, tablets, printers, and computer hardware
