@@ -76,7 +76,27 @@
        2. Write webinar content.
 
 #### Start Date (Estimate) : 2018-01-01
+#### End Date : 2021-04-30
+
+### 4. Network Link Co., Ltd
+#### Position : Programmer ( IoT Engineer )
+#### Responsibility
+    1. Provide onsite and remote support to employees for desktop applications, VOIP telephones, smartphones, tablets, printers, and computer hardware
+    2. Install, patch/upgrade, replace and remediate all IT hardware along supported sites
+    3. Document root cause of issues and suggest changes to prevent future outages
+    4. Ability to communicate effectively both orally and in writing and to establish and maintain cooperative working relationships with persons contacted while performing assigned duties including company management and outside business associates
+    5. Organize and prioritize workflow to meet established timeframes
+    6. Maintain updated knowledge of policies, procedures, products, and activities of assigned area
+    7. Escalation, tracking and resolution of all incident/service requests/ problems in a professional and timely Manner
+    8. Attend to any other reasonable duties as assigned by IT Manager
+    9. Provide operational support in activity remediation analysis in union with the IT support team
+    10. Collaborate pro-actively within the IT team to improve quality of systems and services within the organization
+    11. Manage and track outstanding issues with users and support team for prompt execution and closure
+    12. Support the implementation of IT-related projects.
+
+#### Start Date (Estimate) : 2021-05-01
 #### End Date : Present
+
 
 ## Education
 |Education|Institution|Major|
